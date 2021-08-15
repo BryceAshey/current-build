@@ -4,9 +4,9 @@ This build was a complete refresh from my D-Frame Mini-ITX gaming build. I wante
 
 **A word of caution:** Readers will note the extensive use of ThermalTake (TT) components... I experienced a number of quality issues with the ThermalTake components that created challenges I did not expect to see at the price-points for some of these components (for instance, none of the motherboard holes had threads - I had to tap them all). So, while the end product speaks for itself, I cannot recommend that someone do a full TT build without really thinking it through. A great build can be created but it will likely take some extra work to get there.
 
-[Thermaltake DistroCase 350P Video](/BryceAshey/current-build/blob/main/media/ThermalTake350P.MOV?raw=true)
+[Thermaltake DistroCase 350P Video](https://github.com/BryceAshey/current-build/blob/main/media/ThermalTake350P.MOV?raw=true)
 
-![Thermaltake DistroCase 350P](/BryceAshey/current-build/blob/main/media/Thermaltake-DistroCase350P.PNG)
+![Thermaltake DistroCase 350P](https://github.com/BryceAshey/current-build/blob/main/media/Thermaltake-DistroCase350P.PNG)
 
 ## Hardware Specs
 
@@ -61,4 +61,4 @@ This left me with the PSU *not* hooked up to anything. Fortunately, the ThermalT
 
 To create the animations for the RAM I used Asus AuraCreator and selected it in Asus' ArmoryCrate. This can be seen in the image below. The motherboard and DistroCase are in Layer 6 and I created a separate Layer for each stick of RAM. I then applied the Star animation somewhat randomly to each stick in each layer. The whole thing loops every 10s.
 
-![Lighting configuration](/BryceAshey/current-build/blob/main/media/AuraCreatorMap.PNG)
+![Lighting configuration](https://github.com/BryceAshey/current-build/blob/main/media/AuraCreatorMap.PNG)
